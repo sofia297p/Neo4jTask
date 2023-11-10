@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "65313a4cb127860944dc21d2"
+  },
+  "body": "this is very good post",
+  "date": {
+    "$date": "2023-10-19T14:16:44.268Z"
+  },
+  "author": "65311f8274922dc17d2da2f7",
+  "likesCount": 0,
+  "likes": [],
+  "postId": "65312042632a030f96291ae2"
+},
+{
+  "_id": {
+    "$oid": "65315f350d27d408e103541d"
+  },
+  "body": "Great!\r\nI like it!\r\n",
+  "date": {
+    "$date": "2023-10-19T16:54:13.165Z"
+  },
+  "author": "65311f4e74922dc17d2da2f6",
+  "likesCount": 0,
+  "likes": [],
+  "postId": "653143a69402c58b09bd1872"
+},
+{
+  "_id": {
+    "$oid": "65316e6b3960bbf513f5d2fd"
+  },
+  "body": "I don't know\r\n",
+  "date": {
+    "$date": "2023-10-19T17:59:07.948Z"
+  },
+  "author": "6531552974922dc17d2da363",
+  "likesCount": 1,
+  "likes": [
+    "65311f4e74922dc17d2da2f6"
+  ],
+  "postId": "653140aac91ce207e3124a8b"
+}]
